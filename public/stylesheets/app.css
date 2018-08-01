@@ -1,0 +1,275 @@
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+/* sliderr -*/
+
+.sliderHeight{
+    height:400px;
+    width:100%;
+    
+}
+
+
+/* end of slider */
+ 
+ 
+/* first block */
+
+.firstblock h1{
+	font-weight:bold;
+	color:#4B5557;
+	padding-bottom: 10px;
+}
+
+.firstblock {
+	padding: 70px 0px 0px 20px;
+	color: grey;
+}
+
+/*second block */
+
+/* about content */
+
+.secondblock {
+	font-size:80%;
+    background-color:#F2F2F2 ;
+    width:100%;
+	margin:40px 0 10px 0;
+}
+
+#second_block_content {
+	padding:40px 40px 0 40px;
+}
+/* about */
+
+ .title {
+	font-weight:bold;
+	color:#4B5557;
+	font-size:190%;
+}
+
+ .paragraph {
+	color:grey;
+	margin-bottom:30px;
+}
+
+/* second block bottom content */
+ .seconblockbottom h1 {
+	font-weight:bold;
+	color:#4B5557;
+	font-size:190%;
+	float:right;
+	margin-bottom:5px;
+	padding-right:100px;
+}
+
+ .seconblockbottom p {color:grey;}
+
+ .icons {
+	height:40px;
+	width:40px;
+	margin-bottom:80px;
+	margin-top:10px;
+	display:block;
+	float: right;
+}
+
+/* 3rd block */
+
+.greenbuttons {
+	border: 1.5px solid  #4B5557 ;
+	padding:7px;
+    	color:#4B5557;
+	/*color: #7ED321;*/
+	text-align:center;
+	cursor: pointer;
+	margin-top:7px;
+	background:transparent;
+    border-radius: 5px;
+    margin-bottom:20px;
+    transition: linear 0.3s;
+}
+.greenbuttons:hover {
+    
+    background:rgba(224, 218, 218, 0.87);
+    font-size:17px;
+}
+
+/* 3rd block */
+.thirdblock {
+	margin: 75px 0 75px 0;
+}
+
+.progressbar {
+	max-width:70%;	
+}
+
+.progressbar2 {
+	max-width:55%;
+ }
+ 
+  /* 4th  block content */
+
+.downloadresume {
+ 	overflow:hidden;
+	display:inline;
+ } 
+
+.fourthblock{
+	height:246px;
+	background-color:#F2F2F2;
+	text-align:center;
+	padding:50px;
+}
+
+/*5th block */
+
+.graphicdesigndiploma {
+
+}
+
+ .gpa {
+	height:21px;width:11%;
+	background-color:#090C39 /*#7ED321*/;
+     
+	color:white;
+	text-align:center;
+ }
+ 
+ /* 6th block */
+ 
+.sixthblock {
+	padding:40px 0 30px 0;
+	overflow-y:visible;
+	background-color:#F2F2F2;
+ }
+ 
+.hr {
+	border:0.5px solid #b6b4bb;
+	width: 100%;
+	margin:20px 0 20px 0;
+	height: 1px;
+ }
+ 
+ /* 7th blockl */
+.seventhblock {
+	text-align:center;
+	mach width:70%;
+	padding:70px 0 70px 0;
+}
+
+/* lastblock */
+
+.lastblock {
+	overflow-y:visible;
+	background-color:#F2F2F2;
+	text-align:center;
+	padding:30px;
+}
+
+.imgsdiv {
+	padding-left:50px;
+}
+
+.imgs{
+	height:200px;
+	width:200px;
+	margin:20px;
+}
+ /*form */
+ 
+ .form1 {
+     width:100%;
+     overflow: hidden;
+	background-color:#252F31;
+	padding:30px;
+ }
+ 
+ .emailandphone {
+	color:white;
+	font-weight:bold;
+ }
+ 
+ .inputfields {
+	padding:30px;
+     
+	display:grid;
+ }
+ 
+ label {color:white;}
+ 
+ input {
+	padding-bottom:10px;
+	width:80%;
+	background-color:#4B5557;
+	border: 0 solid;
+ }
+ 
+ textarea {
+	width:80%;
+	background-color:#4B5557;
+	border: 0 solid;
+ }
+ 
+ .contactmebutton{
+	text-align: center;
+	color:white;
+	background-color:#000000;
+	cursor:pointer;
+	font-weight:bold;width:25%;
+	height:34px;
+	margin: 20px 0 20px 0;
+	padding: 5px 0 3px 0;
+	border:0px;
+ }
+ 
+  /*footer */
+  .footerr /* outer div */ {
+	text-align: center;
+	background-color:#000000;
+	overflow-y:visible;
+  }
+  
+  .copyright {
+	text-align:center;
+	padding:30px 0 0 0;
+  }
+  
+  .iconss /*inner div */ {
+	padding-bottom:20px;
+    max-width: 700px;
+	display: inline-block;
+  }
+  
+  .fab {
+	
+	color:white;
+	font-size:15px;
+	padding-right:20px;
+	cursor:pointer;
+	
+  }
+
+
+
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link{color:white;}
+
+.fa-centercode {
+    color:#4B5557;
+}
+
+#progressbars img {
+
+    margin-bottom:10px;
+}
+
+.fifthblock .row {
+    margin-top:50px;
+        margin-bottom:50px;
+}
